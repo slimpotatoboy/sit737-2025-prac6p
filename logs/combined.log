@@ -1,0 +1,13 @@
+{"level":"error","message":"Invalid input 1 and NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 3 and NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 3 and NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 3 and NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 3 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 3 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 2 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 5 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 4 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 4 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 4","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 4 and undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input 4","service":"calculator-microservice"}
